@@ -1,0 +1,55 @@
+/* Qaabeynta Custom */
+body {
+    font-family: Arial, sans-serif;
+    scroll-behavior: smooth;
+}
+
+.home-section {
+    background: #007bff;
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.blogs-section {
+    padding: 80px 0;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.services-section {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+}
+
+.service-box {
+    background: #ffffff;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.service-box i {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.footer {
+    background: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer p {
+    margin: 0;
+}
